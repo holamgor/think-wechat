@@ -1,7 +1,7 @@
 {
     "name": "wookoong/think-wechat",
     "description": "EasyWechat For Thnkphp5.1+",
-    "composer-runtime-api": "^2.0" 
+    "composer-runtime-api": "^2.0", 
     "type": "think-extend",
     "keywords": ["wechat", "weixin","easywechat","thinkphp","think", "sdk"],
     "require": {
